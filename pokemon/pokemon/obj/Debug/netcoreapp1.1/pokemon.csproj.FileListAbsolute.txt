@@ -1,0 +1,10 @@
+D:\桌面\Desktop\cs-289\pokemon\pokemon\bin\Debug\netcoreapp1.1\pokemon.deps.json
+D:\桌面\Desktop\cs-289\pokemon\pokemon\bin\Debug\netcoreapp1.1\pokemon.runtimeconfig.json
+D:\桌面\Desktop\cs-289\pokemon\pokemon\bin\Debug\netcoreapp1.1\pokemon.runtimeconfig.dev.json
+D:\桌面\Desktop\cs-289\pokemon\pokemon\obj\Debug\netcoreapp1.1\pokemon.csprojResolveAssemblyReference.cache
+D:\桌面\Desktop\cs-289\pokemon\pokemon\obj\Debug\netcoreapp1.1\pokemon.csproj.CoreCompileInputs.cache
+D:\桌面\Desktop\cs-289\pokemon\pokemon\obj\Debug\netcoreapp1.1\pokemon.AssemblyInfo.cs
+D:\桌面\Desktop\cs-289\pokemon\pokemon\bin\Debug\netcoreapp1.1\pokemon.dll
+D:\桌面\Desktop\cs-289\pokemon\pokemon\bin\Debug\netcoreapp1.1\pokemon.pdb
+D:\桌面\Desktop\cs-289\pokemon\pokemon\obj\Debug\netcoreapp1.1\pokemon.dll
+D:\桌面\Desktop\cs-289\pokemon\pokemon\obj\Debug\netcoreapp1.1\pokemon.pdb

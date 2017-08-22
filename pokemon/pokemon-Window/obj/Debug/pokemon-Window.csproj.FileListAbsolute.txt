@@ -1,0 +1,10 @@
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\bin\Debug\pokemon-Window.exe.config
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\bin\Debug\pokemon-Window.exe
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\bin\Debug\pokemon-Window.pdb
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon-Window.csprojResolveAssemblyReference.cache
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon_Window.pokemongo.resources
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon_Window.Properties.Resources.resources
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon-Window.csproj.GenerateResource.Cache
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon-Window.csproj.CoreCompileInputs.cache
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon-Window.exe
+d:\桌面\Desktop\cs-289\pokemon\pokemon-Window\obj\Debug\pokemon-Window.pdb
