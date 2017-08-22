@@ -1,7 +1,0 @@
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\bin\Debug\pokemon2.exe.config
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\bin\Debug\pokemon2.exe
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\bin\Debug\pokemon2.pdb
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\obj\Debug\pokemon.csproj.CoreCompileInputs.cache
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\obj\Debug\pokemon2.exe
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\obj\Debug\pokemon2.pdb
-d:\桌面\Desktop\cs-289\pokemon\pokemon2\obj\Debug\pokemon.csprojResolveAssemblyReference.cache
