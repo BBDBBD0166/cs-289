@@ -1,0 +1,6 @@
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\bin\Debug\Example1-Console.exe.config
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\bin\Debug\Example1-Console.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\bin\Debug\Example1-Console.pdb
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\obj\Debug\Example1-Console.csprojResolveAssemblyReference.cache
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\obj\Debug\Example1-Console.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Example1-Console\obj\Debug\Example1-Console.pdb

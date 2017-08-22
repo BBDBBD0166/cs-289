@@ -1,0 +1,9 @@
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2-WinFrom.csprojResolveAssemblyReference.cache
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2.Properties.Resources.resources
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2-WinFrom.csproj.GenerateResource.Cache
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2.MainFrom.resources
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\bin\Debug\Examples2.exe.config
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\bin\Debug\Examples2.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\bin\Debug\Examples2.pdb
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples2\obj\Debug\Examples2.pdb

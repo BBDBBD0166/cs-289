@@ -1,0 +1,5 @@
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples-Console2\bin\Debug\Examples-Console2.exe.config
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples-Console2\bin\Debug\Examples-Console2.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples-Console2\bin\Debug\Examples-Console2.pdb
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples-Console2\obj\Debug\Examples-Console2.exe
+E:\vs2017\台大課程\cs-289\Lecture01-Examples\Examples-Console2\obj\Debug\Examples-Console2.pdb
